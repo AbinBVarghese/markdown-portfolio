@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+
+ 1, dream :heart:
+ 2, travel :tada:
+ 3, food :sparkles:
+ 4, songs :+1:
